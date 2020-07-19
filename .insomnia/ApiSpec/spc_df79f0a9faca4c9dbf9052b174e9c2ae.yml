@@ -1,0 +1,18 @@
+_id: spc_df79f0a9faca4c9dbf9052b174e9c2ae
+contentType: yaml
+contents: "openapi: 3.0.0
+
+  info:
+
+  \  description:\"this is a simple server
+
+  \    Swagger at [https://www.codecoast.com.gh].\"
+
+  \ \ 
+
+  \  "
+created: 1595156122416
+fileName: Insomnia Designer
+modified: 1595156855222
+parentId: wrk_66789a999012408eb4e3ba2868546b2e
+type: ApiSpec
